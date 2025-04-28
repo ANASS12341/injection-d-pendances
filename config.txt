@@ -1,0 +1,2 @@
+net.anass.dao.IDaoImpl
+net.anass.metier.IMetierImpl
